@@ -1,5 +1,7 @@
 ## Jabborov Muhammadjasur
 #### Junior Frontend Developer __====__
+***
+
 #### Connnect information:
 __Phone:__ +998 93 051 71 75
 
@@ -11,6 +13,7 @@ __Telegram:__ @ModestGamer777
 [Instagram](https://www.instagram.com/muhammadjasur2005/)
 
 [Git hub](http://www.github.com)
+***
 
 ### Briefly About Myself:
 
@@ -28,6 +31,7 @@ I'm interested in Web Development because this occupation provides endless possi
 besides there's a huge amount of free high quality resources for self education and a large community of developers.
 
 I belive, that my abilty to learning and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
+***
 
 ### Skills and Profiency:
 
@@ -38,7 +42,9 @@ I belive, that my abilty to learning and to gain new skills will lead me through
 * Git, GitHub
 
 * VS Code, Subtitle
-* Adobe Photoshop, Illustrator, Drew
+
+* Adobe Photoshop, Illustrator,Corel
+ + Capcut
 ***
 
 ### Code example:
@@ -56,4 +62,3 @@ function peak(arr) {
   return -1;
 }
 
-![logo of GitHub]("E:\IT HOMEWORK\homework\25231.png")
