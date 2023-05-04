@@ -50,6 +50,9 @@ I belive, that my abilty to learning and to gain new skills will lead me through
 ### Code example:
 __Peak array index KATA from CODEWARS:__ *Given an array of ints, return the index sech that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.
 
+
+
+
 ```
 function peak(arr) {
     for (let i = 1; i < arr.length - 1; i++) {
@@ -61,10 +64,10 @@ function peak(arr) {
   }
   return -1;
 }
+```
+`java script`
 
-| FANLAR | BAHOLAR |
-| --- | --- | 
+##### Grades
+| Fan |Baho|
+| --- | --- |
 | Matematika | 5 |
-| Fizika     | 5 |
-| Ona tili   | 5 |
-| Rus tili   | 3 |
