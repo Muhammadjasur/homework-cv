@@ -62,3 +62,9 @@ function peak(arr) {
   return -1;
 }
 
+FANLAR | BAHOLAR
+-----------|:-------
+Matematika | 5
+Fizika | 5
+Ona tili | 5
+Rus tili | 3
